@@ -1,4 +1,4 @@
-# Acelera-Pre--Escola
+# Acelera-Pré--Escola
 🚀 Acelera Pré-Escola: SaaS Full Stack para Automação da Comunicação Escolar
 Transformando a burocracia diária em 3 cliques. Um projeto Full Stack com foco em IA e Automação.
 
